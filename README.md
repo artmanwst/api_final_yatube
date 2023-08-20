@@ -1,2 +1,3 @@
-# api_final
-api final
+Описание проекта:
+
+Проект api_yatube - это API социальной сети yatube.
